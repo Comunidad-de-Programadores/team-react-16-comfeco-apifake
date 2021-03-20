@@ -23,64 +23,99 @@
     },
     {
       "id": "4",
-      "namegroup": "Zoeas",
+      "namegroup": "Polacos",
       "tag": "React Js",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "5",
-     "namegroup": "Zoeas",
-      "tag": "React Js",
+     "namegroup": "Cars Pro",
+      "tag": "Svelt",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id":"6",
-      "namegroup": "Zoeas",
+      "namegroup": "MuxicTech",
       "tag": "React Js",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "7",
-      "namegroup": "Zoeas",
-      "tag": "React Js",
+      "namegroup": "Punto Netos",
+      "tag": "C#",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "8",
-      "namegroup": "Zoeas",
-      "tag": "React Js",
+      "namegroup": "Xarassk",
+      "tag": "Java",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "9",
-      "namegroup": "Zoeas",
-      "tag": "React Js",
+      "namegroup": "Heretics",
+      "tag": "Java",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "10",
-      "namegroup": "Zoeas",
+      "namegroup": "Patema",
       "tag": "React Js",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "11",
-      "namegroup": "Zoeas",
-      "tag": "React Js",
+      "namegroup": "LevisKill",
+      "tag": "Go",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "12",
-      "namegroup": "Zoeas",
-      "tag": "React Js",
+      "namegroup": "Sentinels",
+      "tag": "TypeScript",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "avatarUrl": "https://source.unsplash.com/random"
+    },
+    {
+      "id": "13",
+      "namegroup": "Acend",
+      "tag": "TypeScript",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "avatarUrl": "https://source.unsplash.com/random"
+    },
+    {
+      "id": "14",
+      "namegroup": "Valorantio",
+      "tag": "JavaScript",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "avatarUrl": "https://source.unsplash.com/random"
+    },
+    {
+      "id": "15",
+      "namegroup": "Spliters",
+      "tag": "Android",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "avatarUrl": "https://source.unsplash.com/random"
+    },
+    {
+      "id": "16",
+      "namegroup": "VoicesA",
+      "tag": "Angular",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "avatarUrl": "https://source.unsplash.com/random"
+    },
+    {
+      "id": "17",
+      "namegroup": "Overwachos",
+      "tag": "Go",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "avatarUrl": "https://source.unsplash.com/random"
     }
